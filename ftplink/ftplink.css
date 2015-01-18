@@ -1,0 +1,4 @@
+div#ftplink { background: url("./images/ftp-icon-24.png") no-repeat transparent}
+
+div#tgetftplink div.dlg-header {background-image: url(./images/ftp-icon-16.png)}
+div#tgetftplink fieldset div {line-height: 16px}

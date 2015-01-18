@@ -1,0 +1,5 @@
+plugin.description: This plugin allows changing password, if htpasswd is used.
+plugin.author: OramahMaalhur (http://naya.vu)
+plugin.runlevel: 11
+plugin.version: 0.1
+rtorrent.version: 0.9.1

@@ -1,0 +1,5 @@
+plugin.description: Add FTP link for current user
+plugin.author: OramahMaalhur (http://naya.vu)
+php.extensions.warning: json
+plugin.version: 0.1
+rtorrent.version: 0.9.1
