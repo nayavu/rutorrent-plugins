@@ -8,7 +8,7 @@ theWebUI.checkPassword = function() {
         alert(theUILang.ErrorPasswordDontMatch);
     } else {
         plugin.enableFormControls(false);
-        theWebUI.requestWithoutTimeout("?action=changepassword",[plugin.start,plugin]);
+        theWebUI.requestWithoutTimeout("?action=changepassword",[plugin.start, plugin]);
     }
 };
 

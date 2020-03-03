@@ -1,0 +1,3 @@
+plugin.description: This plugin allows to download the whole torrent directory as TAR/ZIP archive.
+plugin.author: OramahMaalhur
+plugin.version: 0.1

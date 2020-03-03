@@ -1,5 +1,5 @@
 <?php
 
-$httpasswd_path = dirname(dirname(dirname(dirname(__FILE__)))).'/.htpasswd'; // Location of .htpasswd
+$httpasswd_path = dirname(dirname(dirname(dirname(__FILE__)))).'/.htpasswd';
 
-$encryption_method = "crypt"; //one of 'crypt' (if users to htpasswd were added with '-d', userful for vsftpd support)  or 'default'
+$encryption_method = "crypt"; //one of 'crypt', 'default'
